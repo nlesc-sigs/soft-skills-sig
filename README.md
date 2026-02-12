@@ -10,11 +10,9 @@ Soft skills, also known as power skills, common skills, essential skills, or cor
 
 ## SIG Leads
 
-* Jacqueline
 * Ole
-* Jaro (support)
+* Jaro
 * Pablo L. (support)
-* Willem (support)
 
 ## Contact
 soft-skills@esciencecenter.nl
