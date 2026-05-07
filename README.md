@@ -8,6 +8,15 @@ The SIG goal is to contribute to the development of soft skills amongst e-Scienc
 ## Soft Skills Definition
 Soft skills, also known as power skills, common skills, essential skills, or core skills, are psychosocial skills generally applicable to all professions. These include critical thinking, problem solving, public speaking, professional writing, teamwork, digital literacy, leadership, professional attitude, work ethic, career management and intercultural fluency. This is in contrast to hard skills, which are specific to individual professions. [Source](https://en.wikipedia.org/wiki/Soft_skills)
 
+## Agenda
+Most of our sessions are not recorded, to give the participants more freedom to speak about sensitive topics. Missing recording links are thus a feature, and not a bug.
+
+| Date | Topic | Recording (if available) |
+| --- | --- | --- |
+| 2026-05-28 | TBD | |
+| 2026-06-25 | TBD | |
+| ... | ... |
+
 ## SIG Leads
 
 * Ole
