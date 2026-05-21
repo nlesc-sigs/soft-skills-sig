@@ -14,7 +14,7 @@ Most of our sessions are not recorded, to give the participants more freedom to 
 | Date | Topic | Recording (if available) |
 | --- | --- | --- |
 | 2026-05-28 | TBD | |
-| 2026-06-25 | TBD | |
+| 2026-06-25 | [Presentation Slides](https://github.com/nlesc-sigs/soft-skills-sig/issues/30) (Pablo) | |
 | 2026-09-17 | TBD | |
 | 2026-11-12 | TBD | |
 | ... | ... |
