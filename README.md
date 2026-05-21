@@ -15,6 +15,8 @@ Most of our sessions are not recorded, to give the participants more freedom to 
 | --- | --- | --- |
 | 2026-05-28 | TBD | |
 | 2026-06-25 | TBD | |
+| 2026-09-17 | TBD | |
+| 2026-11-12 | TBD | |
 | ... | ... |
 
 ## SIG Leads
