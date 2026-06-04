@@ -11,9 +11,9 @@ Soft skills, also known as power skills, common skills, essential skills, or cor
 ## Agenda
 Most of our sessions are not recorded, to give the participants more freedom to speak about sensitive topics. Missing recording links are thus a feature, and not a bug.
 
-| Date | Topic | Recording (if available) |
+| Date | Topic | Resources |
 | --- | --- | --- |
-| 2026-05-28 | TBD | |
+| 2026-05-28 | [Communication Goals](https://github.com/nlesc-sigs/soft-skills-sig/issues/41) (Ole) | [Slides](https://nlesc-slides.github.io/2026-05-28_Communication_Goals), [Minutes](https://nlesc.sharepoint.com/:w:/s/Soft-SkillSIG/IQBH1Mnyw8f2QZYAU6Omzt0TAdgIpgmTFcAT3B1Mvey5bJQ?e=rPCHjV) |
 | 2026-06-25 | [Presentation Slides](https://github.com/nlesc-sigs/soft-skills-sig/issues/30) (Pablo) | |
 | 2026-09-17 | TBD | |
 | 2026-11-12 | TBD | |
